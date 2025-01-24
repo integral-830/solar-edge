@@ -1,4 +1,4 @@
-import { TrainingData } from "./model";
+import { TrainingData } from "./model/model";
 
 export const historicalData: TrainingData[] = [
     { ghi: 800, dni: 500, temperature: 30, powerOutput: 220 },

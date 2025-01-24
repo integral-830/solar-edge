@@ -1,5 +1,5 @@
-import { fetchIrradianceData } from "./fetchWeather";
-import { SolarPowerModel } from "./model";
+import { fetchIrradianceData } from "./data/fetchWeather";
+import { SolarPowerModel } from "./model/model";
 import { historicalData } from "./historicalData";
 
 async function calculateRealtimeWithRegression() {
