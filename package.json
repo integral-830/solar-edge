@@ -1,0 +1,22 @@
+{
+  "name": "solaredge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.7",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "linear-regression-ts": "^1.0.1",
+    "ml-regression": "^6.2.0",
+    "regression": "^2.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
